@@ -1,9 +1,9 @@
 {
-    "name": "Ajuser",
-    "description": "Ajuser bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/K5bqKHr/20210928-161812.png",
+    "name": "Kalippan_ser",
+    "description": "Kalippan_ser Bot- re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://i.ibb.co/K5bqKHr/20211026_162134.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/aju001/Ajuser_v2",
+    "repository": "https://github.com/kalippan-minnuz/kalippan_see",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -114,7 +114,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "❌  Ajuser  ❌"
+            "value": "««᳄⁩ Kalippan 𝑆𝑖𝑟_⇍🦋⃤"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
@@ -151,7 +151,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Ajuser bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Kalippan_ser bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -172,7 +172,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```Ajuser``` \n\n ```type*.help*for commands```"
+            "value": "i am alive  \n\n ```Kalippan_ser``` \n\n ```type*.help*for commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
