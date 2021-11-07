@@ -74,7 +74,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "Ajuser by aju"
+            "value": "Kalippan_ser by Midhunser"
        },    
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
