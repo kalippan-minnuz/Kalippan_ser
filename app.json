@@ -114,7 +114,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "««᳄⁩ Kalippan 𝑆𝑖𝑟_⇍🦋⃤"
+            "value": "🥀  Kalippan_ser"  🥀
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
