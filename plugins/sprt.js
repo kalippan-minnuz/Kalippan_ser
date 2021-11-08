@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'Kalippanser', fromMe: true,dontAddCommandList: true}
         
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
-r_text[1] = "ajune tholpikkaan ningalkavilla. Jeevitathil ajune tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
+r_text[1] = "kalippanser tholpikkaan ningalkavilla. Jeevitathil ajune tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
 r_text[2] = "Kalippanser says i love you 😘";
 r_text[3] = "ajuvete udhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
