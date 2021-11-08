@@ -279,10 +279,10 @@ if (conf.LANG == 'TR') {
 }
 if (conf.LANG == 'EN') {
     fulleva_dsc = 'Activates full functional Zara features. Turn your account into a ai chatbot!'
-    already_on = 'Ajuser artificial intelligence is already fully functional.'
-    already_off = 'Ajuser artificial intelligence is currently running semi-functional.'
-    succ_on = 'Ajuser Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'Ajuser Set to Semi-Functional! Please wait a bit! ☑️'
+    already_on = 'Kalippan_ser artificial intelligence is already fully functional.'
+    already_off = 'Kalippan_ser artificial intelligence is currently running semi-functional.'
+    succ_on = 'Kalippan_ser Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'Kalippan_ser Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'AZ') {
     fulleva_dsc = 'Tam funksional Eva xüsusiyyətlərini aktivləşdirir. Hesabınızı bir chatbot halına gətirin!'
